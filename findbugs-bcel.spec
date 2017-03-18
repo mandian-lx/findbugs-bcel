@@ -9,7 +9,7 @@ Version:        6.0
 Release:        0.7.%{findbugsver}%{?dist}
 Summary:        Byte Code Engineering Library for FindBugs
 
-Group:          Development/Libraries
+Group:          Development/Java
 License:        ASL 2.0
 URL:            http://commons.apache.org/proper/commons-bcel/
 
@@ -30,7 +30,6 @@ with FindBugs 3.0.
 
 %package javadoc
 Summary:        Javadoc for %{name}
-Group:          Documentation
 
 %description javadoc
 %{summary}.
