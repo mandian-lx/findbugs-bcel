@@ -1,2 +1,4 @@
 sources:
-  "bcel-5.2-src.tar.gz": 3b3d451664855b0c9aae15dd05b69bf1063d8a1d
+  "bcel-20140707svn1547656.tgz":    29c1c2cf4e1da876454c162ccdb14d8cf3d4d7e6
+  "bcel-findbugs-6.0.pom":  2f757a1e1cc8f4b151c98288a056e967fdc8e274
+
